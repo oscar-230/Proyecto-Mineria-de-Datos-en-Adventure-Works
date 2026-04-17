@@ -137,10 +137,6 @@ Los reportes permiten analizar:
 - Tendencias de ventas
 - Desempeño por producto
 - Comportamiento por región
-
-📹 **Video demostrativo:**  
-https://youtu.be/x5-9k351SsA  
-
 ---
 
 ## 🔄 Flujo General del Proyecto
@@ -166,7 +162,6 @@ https://youtu.be/x5-9k351SsA
 ## 📁 Recursos Adicionales
 
 - 📊 Archivo Power BI (.pbix) incluido en el repositorio  
-- 🎥 Video ETL: https://www.youtube.com/watch?v=kgu0uMpmfcA  
-- 🎥 Video visualización: https://youtu.be/x5-9k351SsA  
+- 🎥 Video ETL: https://www.youtube.com/watch?v=kgu0uMpmfcA
 
 ---
